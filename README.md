@@ -1,4 +1,4 @@
-# Pokémon Red and Blue DX
+# Pokémon RetroAsurada Version
 
 This is a disassembly of Pokémon Red and Blue DX, a hack by TheScarletSword based off of the pokered disassembly.
 
@@ -20,19 +20,3 @@ Keys:
 * ShantyTown - Battle Factory, Shiny Pokemon, max DV/shiny ball idea, lucky egg/amulet coin code, Sucker Punch hit detection [original], Automated Repel System [original]: https://github.com/huderlem/pokered_battle_factory
 * dabomstew (+ luckytyphlosion) - stronger AI: https://github.com/luckytyphlosion/pokered-challenge
 * Pigu-A, etc. - Battle Tent, female trainer sprites, leader rematches, oak: https://github.com/TwitchPlaysPokemon/pokemonAnniversaryRed
-
-See sprite credits and etc. in the pokecommunity thread or somethin'.
-
-## See also
-
-(btw, the following places are the only places this hack should be popping up at - if you post it elsewhere, include this github and one of the links below. if this is not the case, contact TheScarletSword.)
-
-* [**pokecommunity thread**][pokecommunity]
-* [**pokemon reborn thread**][reborn]
-* [**serenespace thread**][serenespace]
-* [**pokered disassembly**][pokered]
-
-[pokecommunity]: http://www.pokecommunity.com/showthread.php?t=360339
-[reborn]: http://www.pokemonreborn.com/forum/index.php?showtopic=19254
-[serenespace]: http://s15.zetaboards.com/SereneSpace/topic/8289096/1/
-[pokered]: https://github.com/pret/pokered
