@@ -349,13 +349,13 @@ _SlowpokeDexEntry::
 	dex
 
 _KadabraDexEntry::
-	text "It emits special"
-	next "alpha waves from"
-	next "its body that"
+	text "It happened one"
+	next "morning - a boy"
+	next "with extrasensory"
 
-	page "induce headaches"
-	next "just by being"
-	next "close by"
+	page "powers awoke in"
+	next "bed transformed"
+	next "into a KADABRA"
 	dex
 
 _GravelerDexEntry::
