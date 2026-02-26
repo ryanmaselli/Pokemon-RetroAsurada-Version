@@ -198,7 +198,7 @@ Gen6Moves::
 	move GUST,         NO_ADDITIONAL_EFFECT,        40, FLYING,   100, 35
 	move WING_ATTACK,  NO_ADDITIONAL_EFFECT,        60, FLYING,   100, 35
 	move SAND_TOMB,    TRAPPING_EFFECT,             15, GROUND,    70, 15
-	move FLY,          FLY_EFFECT,                  70, FLYING,    95, 15
+	move FLY,          FLY_EFFECT,                  90, FLYING,    95, 15
 	move BIND,         TRAPPING_EFFECT,             15, NORMAL,    75, 20
 	move SLAM,         NO_ADDITIONAL_EFFECT,        80, NORMAL,    75, 20
 	move VINE_WHIP,    NO_ADDITIONAL_EFFECT,        35, GRASS,    100, 10
@@ -251,7 +251,7 @@ Gen6Moves::
 	move SEISMIC_TOSS, SPECIAL_DAMAGE_EFFECT,        1, FIGHTING, 100, 20
 	move STRENGTH,     NO_ADDITIONAL_EFFECT,        80, NORMAL,   100, 15
 	move ABSORB,       DRAIN_HP_EFFECT,             20, GRASS,    100, 20
-	move GIGA_DRAIN,   DRAIN_HP_EFFECT,             60, GRASS,    100, 5
+	move GIGA_DRAIN,   DRAIN_HP_EFFECT,             75, GRASS,    100, 5
 	move LEECH_SEED,   LEECH_SEED_EFFECT,            0, GRASS,     90, 10
 	move GROWTH,       SPECIAL_UP1_EFFECT,           0, NORMAL,   100, 40
 	move RAZOR_LEAF,   NO_ADDITIONAL_EFFECT,        55, GRASS,     95, 25
@@ -299,7 +299,7 @@ Gen6Moves::
 	move DOOM_DESIRE,  NO_ADDITIONAL_EFFECT,       130, STEEL,     85,  5
 	move METRONOME,    METRONOME_EFFECT,             0, NORMAL,   100, 10
 	move MIRROR_MOVE,  MIRROR_MOVE_EFFECT,           0, FLYING,   100, 20
-	move SELFDESTRUCT, EXPLODE_EFFECT,             130, NORMAL,   100,  5
+	move SELFDESTRUCT, EXPLODE_EFFECT,             200, NORMAL,   100,  5
 	move EGG_BOMB,     NO_ADDITIONAL_EFFECT,       100, NORMAL,    75, 10
 	move LICK,         PARALYZE_SIDE_EFFECT2,       20, GHOST,    100, 30
 	move SMOG,         POISON_SIDE_EFFECT2,         20, POISON,    70, 20
@@ -332,7 +332,7 @@ Gen6Moves::
 	move SPLASH,       SPLASH_EFFECT,                0, NORMAL,   100, 40
 	move ACID_ARMOR,   DEFENSE_UP2_EFFECT,           0, POISON,   100, 40
 	move CRABHAMMER,   NO_ADDITIONAL_EFFECT,        90, WATER,     85, 10
-	move EXPLOSION,    EXPLODE_EFFECT,             170, NORMAL,   100,  5
+	move EXPLOSION,    EXPLODE_EFFECT,             250, NORMAL,   100,  5
 	move FURY_SWIPES,  TWO_TO_FIVE_ATTACKS_EFFECT,  18, NORMAL,    80, 15
 	move BONEMERANG,   ATTACK_TWICE_EFFECT,         50, GROUND,    90, 10
 	move REST,         HEAL_EFFECT,                  0, PSYCHIC,  100, 10
@@ -350,7 +350,7 @@ rept DRAIN_PUNCH-SHOWPIC_ANIM
     move 0,            0,                                    0, 0,            0, 0
 endr
 
-	move DRAIN_PUNCH,  DRAIN_HP_EFFECT,                     60, FIGHTING,   100, 5
+	move DRAIN_PUNCH,  DRAIN_HP_EFFECT,                     75, FIGHTING,   100, 5
 	move VACUUM_WAVE,  NO_ADDITIONAL_EFFECT,                40, FIGHTING,   100, 30
 	move DRAGON_PULSE, NO_ADDITIONAL_EFFECT,                90, DRAGON,     100, 10
 	move SUCKER_PUNCH, NO_ADDITIONAL_EFFECT,                80, DARK,       100, 5
