@@ -124,4 +124,6 @@ TypeEffectsNormal:
 	db ICE,STEEL,05
 	db DRAGON,STEEL,05
 	db ICE,FIRE,05
+	db GHOST,STEEL,05
+	db DARK,STEEL,05
 	db $FF
