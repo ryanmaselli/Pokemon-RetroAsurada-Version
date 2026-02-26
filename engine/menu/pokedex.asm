@@ -491,21 +491,21 @@ ShowPokedexDataInternal: ; 402e2 (10:42e2)
 	ld a,c
 	and a
 	jp z,.waitForButtonPress ; if the pokemon has not been owned, don't print the height, weight, or description
-	inc de ; de = address of feet (height)
-	ld a,[de] ; reads feet, but a is overwritten without being used
+	inc de ; de = address of decimeter (height)
+	ld a,[de] ; reads meters, but a is overwritten without being used
 	hlCoord 12, 6
 	ld bc,$0102
-	call PrintNumber ; print feet (height)
-	ld a,$60 ; feet symbol tile (one tick)
+	call PrintNumber ; print meters (height)
+	ld a, "."
 	ld [hl],a
 	inc de
-	inc de ; de = address of inches (height)
+	inc de ; de = address of cm (height)
 	hlCoord 15, 6
 	ld bc,$8102
-	call PrintNumber ; print inches (height)
-	ld a,$61 ; inches symbol tile (two ticks)
+	call PrintNumber ; print cm (height)
+	ld a, "m"
 	ld [hl],a
-; now print the weight (note that weight is stored in tenths of pounds internally)
+; now print the weight (note that weight is stored in hectograms internally)
 	inc de
 	inc de
 	inc de ; de = address of upper byte of weight
@@ -568,7 +568,8 @@ ShowPokedexDataInternal: ; 402e2 (10:42e2)
 	ret
 
 HeightWeightText: ; 40448 (10:4448)
-	db "HT  ?",$60,"??",$61,$4E,"WT   ???lb@"
+	db   "HT  ?",".","??","m"
+	next "WT   ???kg@"
 
 ; XXX does anything point to this?
 Unknown_4045D: ; 4045d (10:445d)
