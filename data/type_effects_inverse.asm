@@ -124,4 +124,6 @@ TypeEffectsInverse:
 	db ICE,STEEL,20
 	db DRAGON,STEEL,20
 	db ICE,FIRE,20
+	db GHOST,STEEL,20
+	db DARK,STEEL,20
 	db $FF
