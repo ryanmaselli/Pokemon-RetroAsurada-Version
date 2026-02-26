@@ -159,13 +159,13 @@ _NidoqueenDexEntry::
 	dex
 
 _CuboneDexEntry::
-	text "Because it never"
-	next "removes its skull"
-	next "helmet, no one"
+	text "It wears the skull"
+	next "of its dead mother"
+	next "on its head. When"
 
-	page "has ever seen"
-	next "this #MON's"
-	next "real face"
+	page "it becomes lone-"
+	next "some, it is said"
+	next "to cry loudly"
 	dex
 
 _RhyhornDexEntry::
@@ -869,13 +869,13 @@ _VaporeonDexEntry::
 	dex
 
 _MachopDexEntry::
-	text "Loves to build"
-	next "its muscles."
-	next "It trains in all"
+	text "Its whole body is"
+	next "made of muscles."
+	next "Though it's the"
 
-	page "styles of martial"
-	next "arts to become"
-	next "even stronger"
+	page "size of a human"
+	next "child, it can"
+	next "hurl 100 adults"
 	dex
 
 _ZubatDexEntry::
@@ -1019,13 +1019,13 @@ _CaterpieDexEntry::
 	dex
 
 _MetapodDexEntry::
-	text "This #MON is"
-	next "vulnerable to"
-	next "attack while its"
+	text "HARDENs its shell"
+	next "to protect itself."
+	next "However, a large"
 
-	page "shell is soft,"
-	next "exposing its weak"
-	next "and tender body"
+	page "impact may cause"
+	next "it to pop out of"
+	next "its shell"
 	dex
 
 _ButterfreeDexEntry::
@@ -1059,33 +1059,33 @@ _GolduckDexEntry::
 	dex
 
 _HypnoDexEntry::
-	text "When it locks eyes"
-	next "with an enemy, it"
-	next "will use a mix of"
+	text "Carries pendulum-"
+	next "like devices."
+	next "There once was an"
 
-	page "PSI moves such as"
-	next "HYPNOSIS and"
-	next "CONFUSION"
+	page "incident where"
+	next "it hypnotised and"
+	next "took away a child"
 	dex
 
 _GolbatDexEntry::
-	text "Once it strikes,"
-	next "it will not stop"
-	next "draining energy"
+	text "It clamps down on"
+	next "its prey with"
+	next "needle-sharp"
 
-	page "from the victim"
-	next "even if it gets"
-	next "too heavy to fly"
+	page "fangs and drains"
+	next "over 300 ccm of"
+	next "blood in one gulp"
 	dex
 
 _MewtwoDexEntry::
-	text "It was created by"
-	next "a scientist after"
-	next "years of horrific"
+	text "A #MON whose"
+	next "genetic code was"
+	next "recombined often"
 
-	page "gene splicing and"
-	next "DNA engineering"
-	next "experiments"
+	page "for research. It"
+	next "turned vicious as"
+	next "a result"
 	dex
 
 _SnorlaxDexEntry::
@@ -1189,13 +1189,13 @@ _MarowakDexEntry::
 	dex
 
 _HaunterDexEntry::
-	text "Because of its"
-	next "ability to slip"
-	next "through block"
+	text "By licking, it"
+	next "saps the victim's"
+	next "life. It causes"
 
-	page "walls, it is said"
-	next "to be from an-"
-	next "other dimension"
+	page "shaking that won't"
+	next "stop until the"
+	next "victim's demise"
 	dex
 
 _AbraDexEntry::
@@ -1299,23 +1299,23 @@ _SeakingDexEntry::
 	dex
 
 _PonytaDexEntry::
-	text "Its hooves are 10"
-	next "times harder than"
-	next "diamonds. It can"
+	text "Its body is light"
+	next "and its legs have"
+	next "amazing power."
 
-	page "trample anything"
-	next "completely flat"
-	next "in little time"
+	page "It can jump over"
+	next "Tokyo Tower with"
+	next "a single leap"
 	dex
 
 _RapidashDexEntry::
-	text "Very competitive,"
-	next "this #MON will"
-	next "chase anything"
+	text "It can gallop at"
+	next "a top speed of "
+	next "240 KPH, and can"
 
-	page "that moves fast"
-	next "in the hopes of"
-	next "racing it"
+	page "race as fast as a"
+	next "bullet train while"
+	next "being ablaze"
 	dex
 
 _RattataDexEntry::
@@ -1399,13 +1399,13 @@ _MagnemiteDexEntry::
 	dex
 
 _CharmanderDexEntry::
-	text "Obviously prefers"
-	next "hot places. When"
-	next "it rains, steam"
+	text "From the time it"
+	next "is born, a flame"
+	next "burns at the tip"
 
-	page "is said to spout"
-	next "from the tip of"
-	next "its tail"
+	page "of its tail. Its"
+	next "life would go out"
+	next "with this flame"
 	dex
 
 _SquirtleDexEntry::
@@ -1499,12 +1499,12 @@ _WeepinbellDexEntry::
 	dex
 
 _VictreebelDexEntry::
-	text "Said to live in"
-	next "huge colonies"
-	next "deep in jungles,"
+	text "Lures prey with"
+	next "the sweet aroma of"
+	next "honey. Swallowed"
 
-	page "although no one"
-	next "has ever returned"
-	next "from there"
+	page "whole, the prey is"
+	next "melted in a day,"
+	next "bones and all"
 	dex
 
