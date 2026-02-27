@@ -20,3 +20,4 @@ Keys:
 * ShantyTown - Battle Factory, Shiny Pokemon, max DV/shiny ball idea, lucky egg/amulet coin code, Sucker Punch hit detection [original], Automated Repel System [original]: https://github.com/huderlem/pokered_battle_factory
 * dabomstew (+ luckytyphlosion) - stronger AI: https://github.com/luckytyphlosion/pokered-challenge
 * Pigu-A, etc. - Battle Tent, female trainer sprites, leader rematches, oak: https://github.com/TwitchPlaysPokemon/pokemonAnniversaryRed
+* jojobear13 - Metric Pokedex: https://github.com/jojobear13/shinpokered/
