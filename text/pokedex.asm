@@ -839,13 +839,13 @@ _EeveeDexEntry::
 	dex
 
 _FlareonDexEntry::
-	text "When storing"
-	next "thermal energy in"
-	next "its body, its"
+	text "It has a flame"
+	next "chamber inside its"
+	next "body. It inhales,"
 
-	page "temperature could"
-	next "soar to over 1600"
-	next "degrees"
+	page "then blows out"
+	next "fire that is over"
+	next "1648 degrees C"
 	dex
 
 _JolteonDexEntry::
