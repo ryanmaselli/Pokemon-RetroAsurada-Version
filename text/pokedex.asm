@@ -949,13 +949,13 @@ _KakunaDexEntry::
 	dex
 
 _BeedrillDexEntry::
-	text "Flies at high"
-	next "speed and attacks"
-	next "using its large"
+	text "It has 3 poisonous"
+	next "stingers on its"
+	next "forelegs and its"
 
-	page "venomous stingers"
-	next "on its forelegs"
-	next "and tail"
+	page "tail. They are"
+	next "used to jab its"
+	next "enemy repeatedly"
 	dex
 
 _DodrioDexEntry::
