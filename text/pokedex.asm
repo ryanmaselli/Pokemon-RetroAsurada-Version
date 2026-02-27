@@ -993,7 +993,7 @@ _VenomothDexEntry::
 	next "scales covering"
 	next "its wings are"
 
-	page "color coded to"
+	page "colour coded to"
 	next "indicate the kinds"
 	next "of poison it has"
 	dex
