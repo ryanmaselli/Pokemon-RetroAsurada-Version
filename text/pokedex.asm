@@ -1,11 +1,11 @@
 _RhydonDexEntry::
 	text "Protected by an"
-	next "armor-like hide,"
+	next "armour-like hide,"
 	next "it is capable of"
 
 	page "living in molten"
-	next "lava of 3,600"
-	next "degrees"
+	next "lava of 2,000"
+	next "degrees C"
 	dex
 
 _KangaskhanDexEntry::
