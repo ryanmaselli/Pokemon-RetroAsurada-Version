@@ -738,7 +738,7 @@ _DrilburDexEntry::
 
 	page "through the"
 	next "ground at a"
-	next "speed of 30MPH"
+	next "speed of 50 KPH"
 	dex
 
 _ExcadrillDexEntry::
