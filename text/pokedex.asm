@@ -1003,7 +1003,7 @@ _DewgongDexEntry::
 	next "energy in its"
 	next "body. Swims at a"
 
-	page "steady 8 knots"
+	page "steady 14.8 KPH"
 	next "even in intensely"
 	next "cold waters"
 	dex
