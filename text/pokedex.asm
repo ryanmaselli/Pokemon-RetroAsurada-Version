@@ -269,13 +269,13 @@ _StaryuDexEntry::
 	dex
 
 _BlastoiseDexEntry::
-	text "A brutal #MON"
-	next "with pressurized"
-	next "water jets on its"
+	text "The rocket cannons"
+	next "on its shell fire"
+	next "jets of water"
 
-	page "shell. They are"
-	next "used for high"
-	next "speed tackles"
+	page "capable of punch-"
+	next "ing holes through"
+	next "thick steel"
 	dex
 
 _PinsirDexEntry::
