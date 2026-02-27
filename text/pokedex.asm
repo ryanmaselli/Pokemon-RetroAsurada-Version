@@ -1089,13 +1089,13 @@ _MewtwoDexEntry::
 	dex
 
 _SnorlaxDexEntry::
-	text "Very lazy. Just"
-	next "eats and sleeps."
-	next "As its rotund"
+	text "Not satisfied"
+	next "until eating over"
+	next "400 kg of food"
 
-	page "bulk builds, it"
-	next "becomes steadily"
-	next "more slothful"
+	page "every day. When"
+	next "done, it goes"
+	next "promptly to sleep"
 	dex
 
 _MagikarpDexEntry::
