@@ -1,7 +1,7 @@
 TangrowthBaseStats: ; 3903a (e:503a)
 db DEX_TANGROWTH ; pokedex id
-db 85 ; base hp
-db 75 ; base attack
+db 100 ; base hp
+db 100 ; base attack
 db 125 ; base defense
 db 50 ; base speed
 db 110 ; base special
