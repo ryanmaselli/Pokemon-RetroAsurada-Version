@@ -1449,33 +1449,33 @@ _CharizardDexEntry::
 	dex
 
 _OddishDexEntry::
-	text "During the day,"
-	next "it keeps its face"
-	next "buried in the"
+	text "Walks up to 300 m"
+	next "on its two root-"
+	next "like feet,"
 
-	page "ground. At night,"
-	next "it wanders around"
-	next "sowing its seeds"
+	page "earning it the"
+	next "nickname NOODLES"
+	next "ON THE GO"
 	dex
 
 _GloomDexEntry::
-	text "The fluid that"
-	next "oozes from its"
-	next "mouth isn't drool."
+	text "Its pistils exude"
+	next "a terribly foul"
+	next "odor. The horrid"
 
-	page "It is a nectar"
-	next "that is used to"
-	next "attract prey"
+	page "stench can cause"
+	next "fainting at a"
+	next "distance of 2 km"
 	dex
 
 _VileplumeDexEntry::
-	text "The larger its"
-	next "petals, the more"
-	next "toxic pollen it"
+	text "Has the world's"
+	next "largest petals."
+	next "It fiendishly"
 
-	page "contains. Its big"
-	next "head is heavy and"
-	next "hard to hold up"
+	page "scatters allergy-"
+	next "causing pollen"
+	next "from its petals"
 	dex
 
 _BellsproutDexEntry::
@@ -1489,13 +1489,13 @@ _BellsproutDexEntry::
 	dex
 
 _WeepinbellDexEntry::
-	text "It spits out"
-	next "POISONPOWDER to"
-	next "immobilize the"
+	text "The leafy parts"
+	next "act as blades for"
+	next "slashing foes."
 
-	page "enemy and then"
-	next "finishes it with"
-	next "a spray of ACID"
+	page "It spits a fluid"
+	next "that dissolves"
+	next "everything"
 	dex
 
 _VictreebelDexEntry::
