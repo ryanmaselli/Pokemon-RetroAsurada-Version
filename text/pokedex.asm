@@ -449,13 +449,13 @@ _PsyduckDexEntry::
 	dex
 
 _DrowzeeDexEntry::
-	text "Puts enemies to"
-	next "sleep then eats"
-	next "their dreams."
+	text "It remembers every"
+	next "dream it eats. It"
+	next "rarely eats the"
 
-	page "Occasionally gets"
-	next "sick from eating"
-	next "bad dreams"
+	page "dreams of adults"
+	next "because children's"
+	next "are much tastier"
 	dex
 
 _GolemDexEntry::
