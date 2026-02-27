@@ -529,13 +529,13 @@ _SeelDexEntry::
 	dex
 
 _DiglettDexEntry::
-	text "Lives about one"
-	next "yard underground"
-	next "where it feeds on"
+	text "Lives about 1 m"
+	next "underground where"
+	next "it feeds on plant"
 
-	page "plant roots. It"
-	next "sometimes appears"
-	next "above ground"
+	page "roots. It sometim-"
+	next "es appears above"
+	next "ground"
 	dex
 
 _TaurosDexEntry::
