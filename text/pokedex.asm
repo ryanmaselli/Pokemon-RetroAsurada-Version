@@ -259,13 +259,13 @@ _ScytherDexEntry::
 	dex
 
 _StaryuDexEntry::
-	text "An enigmatic"
-	next "#MON that can"
-	next "effortlessly"
+	text "As long as the"
+	next "centre section is"
+	next "unharmed, it can"
 
-	page "regenerate any"
-	next "appendage it"
-	next "loses in battle"
+	page "grow back fully"
+	next "even if it is"
+	next "chopped to bits"
 	dex
 
 _BlastoiseDexEntry::
@@ -489,13 +489,13 @@ _ElectabuzzDexEntry::
 	dex
 
 _MagnetonDexEntry::
-	text "Formed by several"
-	next "MAGNEMITEs linked"
-	next "together. They"
+	text "Generates strange"
+	next "radio signals. It"
+	next "raises the tem-"
 
-	page "frequently appear"
-	next "when sunspots"
-	next "flare up"
+	page "perature by 2C"
+	next "degrees within"
+	next "1,000 m"
 	dex
 
 _KoffingDexEntry::
@@ -819,13 +819,13 @@ _JigglypuffDexEntry::
 	dex
 
 _WigglytuffDexEntry::
-	text "The body is soft"
-	next "and rubbery. When"
-	next "angered, it will"
+	text "Its body is full"
+	next "of elasticity. By"
+	next "inhaling deeply,"
 
-	page "suck in air and"
-	next "inflate itself to"
-	next "an enormous size"
+	page "it can continue"
+	next "to inflate itself"
+	next "without limit"
 	dex
 
 _EeveeDexEntry::
@@ -1229,13 +1229,13 @@ _PidgeottoDexEntry::
 	dex
 
 _PidgeotDexEntry::
-	text "When hunting, it"
-	next "skims the surface"
-	next "of water at high"
+	text "This #MON files"
+	next "at Mach 2 speed,"
+	next "seeking prey."
 
-	page "speed to pick off"
-	next "unwary prey such"
-	next "as MAGIKARP"
+	page "Its large talons"
+	next "are feared as"
+	next "wicked weapons"
 	dex
 
 _StarmieDexEntry::
@@ -1319,13 +1319,13 @@ _RapidashDexEntry::
 	dex
 
 _RattataDexEntry::
-	text "Bites anything"
-	next "when it attacks."
-	next "Small and very"
+	text "Will chew on any-"
+	next "thing with its"
+	next "fangs. If you see"
 
-	page "quick, it is a"
-	next "common sight in"
-	next "many places"
+	page "one, it is certain"
+	next "that 40 more live"
+	next "in the area"
 	dex
 
 _RaticateDexEntry::
@@ -1429,13 +1429,13 @@ _CharmeleonDexEntry::
 	dex
 
 _WartortleDexEntry::
-	text "Often hides in"
-	next "water to stalk"
-	next "unwary prey. For"
+	text "When tapped, this"
+	next "#MON will pull"
+	next "in its head, but"
 
-	page "swimming fast, it"
-	next "moves its ears to"
-	next "maintain balance"
+	page "its tail will"
+	next "still stick out a"
+	next "little bit"
 	dex
 
 _CharizardDexEntry::
