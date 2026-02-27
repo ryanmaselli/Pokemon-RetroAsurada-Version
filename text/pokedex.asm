@@ -559,13 +559,13 @@ _FarfetchdDexEntry::
 	dex
 
 _VenonatDexEntry::
-	text "Lives in the"
-	next "shadows of tall"
-	next "trees where it"
+	text "Its eyes act as"
+	next "radar, letting it"
+	next "be active in the"
 
-	page "eats insects. It"
-	next "is attracted by"
-	next "light at night"
+	page "dark. The eyes"
+	next "can also shoot"
+	next "powerful beams"
 	dex
 
 _DragoniteDexEntry::
@@ -1139,13 +1139,13 @@ _CloysterDexEntry::
 	dex
 
 _ElectrodeDexEntry::
-	text "It stores electric"
-	next "energy under very"
-	next "high pressure."
+	text "It is dangerous."
+	next "If it has too much"
+	next "electricity and"
 
-	page "It often explodes"
-	next "with little or no"
-	next "provocation"
+	page "has nothing to do,"
+	next "it amuses itself"
+	next "by exploding"
 	dex
 
 _ClefableDexEntry::
