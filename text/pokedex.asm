@@ -309,13 +309,13 @@ _GrowlitheDexEntry::
 	dex
 
 _OnixDexEntry::
-	text "As it grows, the"
-	next "stone portions of"
-	next "its body harden"
+	text "It usually lives"
+	next "underground. It"
+	next "searches for food"
 
-	page "to become similar"
-	next "to a diamond, but"
-	next "colored black"
+	page "while boring its"
+	next "way through the"
+	next "ground at 80 KPH"
 	dex
 
 _FearowDexEntry::
