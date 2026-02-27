@@ -2,7 +2,7 @@ AmpharosBaseStats: ; 38432 (e:4432)
 db DEX_AMPHAROS; pokedex id
 db 90 ; base hp
 db 75 ; base attack
-db 85 ; base defense
+db 75 ; base defense
 db 55 ; base speed
 db 115 ; base special
 db ELECTRIC ; species type 1
