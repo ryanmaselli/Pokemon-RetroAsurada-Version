@@ -12,7 +12,7 @@ db 153 ; base exp yield
 IF GEN_2_SPRITES
 INCBIN "pic/gsmon/dugtrio.pic",0,1
 ELSE
-INCBIN "pic/bmon/dugtrio.pic",0,1
+INCBIN "pic/rgmon/dugtrio.pic",0,1
 ENDC
 dw DugtrioPicFront
 dw DugtrioPicBack
