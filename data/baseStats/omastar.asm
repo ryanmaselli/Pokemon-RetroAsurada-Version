@@ -12,7 +12,7 @@ db 199 ; base exp yield
 IF GEN_2_SPRITES
 INCBIN "pic/gsmon/omastar.pic",0,1 ; 66, sprite dimensions
 ELSE
-INCBIN "pic/bmon/omastar.pic",0,1 ; 66, sprite dimensions
+INCBIN "pic/rgmon/omastar.pic",0,1 ; 66, sprite dimensions
 ENDC
 dw OmastarPicFront
 dw OmastarPicBack
