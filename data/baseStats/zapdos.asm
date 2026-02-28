@@ -12,7 +12,7 @@ db 216 ; base exp yield
 IF GEN_2_SPRITES
 INCBIN "pic/gsmon/zapdos.pic",0,1 ; 77, sprite dimensions
 ELSE
-INCBIN "pic/bmon/zapdos.pic",0,1 ; 77, sprite dimensions
+INCBIN "pic/rgmon/zapdos.pic",0,1 ; 77, sprite dimensions
 ENDC
 dw ZapdosPicFront
 dw ZapdosPicBack
