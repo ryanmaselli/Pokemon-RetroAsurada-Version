@@ -44,9 +44,11 @@ _ViridianCityText_19157:: ; a44db (29:44db)
 
 _ViridianCityText_19175:: ; a4525 (29:4525)
 	text "Oh Grandpa! Don't"
-	line "be so mean!"
-	cont "He hasn't had his"
-	cont "coffee yet."
+	line "pass out here!"
+	cont "My goodness..."
+	cont "Sorry, but we'll"
+	cont "have to wait till"
+	cont "he sobers up."
 	done
 
 _ViridianCityText_1917a:: ; a4560 (29:4560)
@@ -58,11 +60,14 @@ _ViridianCityText_1917a:: ; a4560 (29:4560)
 	done
 
 _ViridianCityText_19191:: ; a45b5 (29:45b5)
-	text "You can't go"
-	line "through here!"
+	text "Urgh! Hic..."
+	line "hold on there!"
+	cont "C'mere an lissen"
+	cont "to what I hafta"
+	cont "say!"
 
-	para "This is private"
-	line "property!"
+	para "...Hey!"
+	line "I said don't go!"
 	done
 
 _ViridianCityText_191ca:: ; a45ea (29:45ea)
@@ -98,12 +103,11 @@ _TM42NoRoomText:: ; a46d7 (29:46d7)
 	done
 
 _ViridianCityText_1920a:: ; a46f9 (29:46f9)
-	text "Ahh, I've had my"
-	line "coffee now and I"
-	cont "feel great!"
+	text "Mmm......"
+	line "Seems like I was"
+	cont "pretty drunk!"
 
-	para "Sure you can go"
-	line "through!"
+	para "My head hurts..."
 
 	para "Are you in a"
 	line "hurry?"
