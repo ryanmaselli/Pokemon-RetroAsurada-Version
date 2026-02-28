@@ -12,7 +12,7 @@ db 172 ; base exp yield
 IF GEN_2_SPRITES
 INCBIN "pic/gsmon/pidgeot.pic",0,1 ; 77, sprite dimensions
 ELSE
-INCBIN "pic/bmon/pidgeot.pic",0,1 ; 77, sprite dimensions
+INCBIN "pic/rgmon/pidgeot.pic",0,1 ; 77, sprite dimensions
 ENDC
 dw PidgeotPicFront
 dw PidgeotPicBack
