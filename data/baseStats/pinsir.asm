@@ -12,7 +12,7 @@ db 200 ; base exp yield
 IF GEN_2_SPRITES
 INCBIN "pic/gsmon/pinsir.pic",0,1 ; 77, sprite dimensions
 ELSE
-INCBIN "pic/bmon/pinsir.pic",0,1 ; 77, sprite dimensions
+INCBIN "pic/rgmon/pinsir.pic",0,1 ; 77, sprite dimensions
 ENDC
 dw PinsirPicFront
 dw PinsirPicBack
