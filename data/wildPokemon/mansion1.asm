@@ -4,11 +4,11 @@ MansionMons1:
 		db 32,KOFFING
 		db 30,KOFFING
 		db 34,RATICATE
-		db 30,RATTATA
+		db 30,PONTYA
 		db 34,GROWLITHE
-		db 32,RATTATA
+		db 32,PONYTA
 		db 30,RATICATE
-		db 28,RATTATA
+		db 28,PONYTA
 		db 37,WEEZING
 		db 30,GRIMER
 	ENDC
@@ -17,12 +17,12 @@ MansionMons1:
 		db 32,GRIMER
 		db 30,GRIMER
 		db 34,RATICATE
-		db 30,RATTATA
+		db 30,PONYTA
 		db 34,VULPIX
-		db 32,RATTATA
+		db 32,PONYTA
 		db 10,MAGBY
-		db 28,RATTATA
-		db 37,MUK
+		db 28,PONYTA
+		db 37,GRIMER
 		db 30,KOFFING
 	ENDC
 
