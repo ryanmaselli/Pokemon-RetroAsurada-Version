@@ -2,7 +2,7 @@ CHALLENGE_MODE EQU 0
 ; Set this to 1 if you want Challenge Mode.
 CHALLENGE_MODE_PLUS EQU 0
 ; Set this to 1 if you want Normal+ or Challenge+ - if you want Normal+, disable Challenge Mode.
-GEN_2_SPRITES EQU 1
+GEN_2_SPRITES EQU 0
 ; Set this to 1 if you want Gen 2 sprites
 
 INCLUDE "macros.asm"
