@@ -12,7 +12,7 @@ db 203 ; base exp yield
 IF GEN_2_SPRITES
 INCBIN "pic/gsmon/cloyster.pic",0,1
 ELSE
-INCBIN "pic/bmon/cloyster.pic",0,1
+INCBIN "pic/rgmon/cloyster.pic",0,1
 ENDC
 dw CloysterPicFront
 dw CloysterPicBack
