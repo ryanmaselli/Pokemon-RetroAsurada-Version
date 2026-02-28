@@ -6,8 +6,8 @@ MoonMonsB2:
 		db 10,ZUBAT
 		db 10,ROGGENROLA
 		db 11,ZUBAT
-		db 10,ZUBAT
-		db 12,ZUBAT
+		db 10,PARAS
+		db 12,PARAS
 		db 10,CLEFFA
 		db 12,ZUBAT
 		db 12,CLEFAIRY
@@ -18,8 +18,8 @@ MoonMonsB2:
 		db 10,ZUBAT
 		db 10,GEODUDE
 		db 11,ZUBAT
-		db 10,ZUBAT
-		db 12,ZUBAT
+		db 10,PARAS
+		db 12,PARAS
 		db 10,CLEFFA
 		db 12,ZUBAT
 		db 12,CLEFAIRY
