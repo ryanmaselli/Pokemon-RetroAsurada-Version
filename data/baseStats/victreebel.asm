@@ -12,7 +12,7 @@ db 191 ; base exp yield
 IF GEN_2_SPRITES
 INCBIN "pic/gsmon/victreebel.pic",0,1 ; 77, sprite dimensions
 ELSE
-INCBIN "pic/bmon/victreebel.pic",0,1 ; 77, sprite dimensions
+INCBIN "pic/rgmon/victreebel.pic",0,1 ; 77, sprite dimensions
 ENDC
 dw VictreebelPicFront
 dw VictreebelPicBack
