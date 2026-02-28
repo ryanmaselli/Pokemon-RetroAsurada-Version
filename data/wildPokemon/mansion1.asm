@@ -20,7 +20,7 @@ MansionMons1:
 		db 30,PONYTA
 		db 34,VULPIX
 		db 32,PONYTA
-		db 10,MAGBY
+		db 20,MAGBY
 		db 28,PONYTA
 		db 37,GRIMER
 		db 30,KOFFING
