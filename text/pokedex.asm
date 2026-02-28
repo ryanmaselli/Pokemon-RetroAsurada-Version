@@ -1241,7 +1241,7 @@ _PidgeotDexEntry::
 _StarmieDexEntry::
 	text "Its central core"
 	next "glows with the"
-	next "seven colors of"
+	next "seven colours of"
 
 	page "the rainbow. Some"
 	next "people value the"
