@@ -12,7 +12,7 @@ db 210 ; base exp yield
 IF GEN_2_SPRITES
 INCBIN "pic/gsmon/blastoise.pic",0,1
 ELSE
-INCBIN "pic/bmon/blastoise.pic",0,1
+INCBIN "pic/rgmon/blastoise.pic",0,1
 ENDC
 dw BlastoisePicFront
 dw BlastoisePicBack
