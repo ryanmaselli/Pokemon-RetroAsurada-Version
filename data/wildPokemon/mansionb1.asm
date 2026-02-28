@@ -4,24 +4,24 @@ MansionMonsB1:
 		db 33,KOFFING
 		db 31,KOFFING
 		db 35,GROWLITHE
-		db 32,RATICATE
+		db 32,PONYTA
 		db 31,KOFFING
 		db 40,WEEZING
-		db 34,RATICATE
-		db 35,RATICATE
+		db 34,PONYTA
+		db 35,GRIMER
 		db 42,WEEZING
-		db 42,RATICATE
+		db 42,MUK
 	ENDC
 
 	IF DEF(_BLUE)
 		db 33,GRIMER
 		db 31,GRIMER
 		db 35,VULPIX
-		db 15,MAGBY
+		db 25,MAGBY
 		db 31,GRIMER
 		db 40,MUK
 		db 20,MAGBY
-		db 35,RATICATE
+		db 35,KOFFING
 		db 38,MUK
 		db 42,MAGMAR
 	ENDC
