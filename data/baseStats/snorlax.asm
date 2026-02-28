@@ -12,7 +12,7 @@ db 154 ; base exp yield
 IF GEN_2_SPRITES
 INCBIN "pic/gsmon/snorlax.pic",0,1 ; 77, sprite dimensions
 ELSE
-INCBIN "pic/bmon/snorlax.pic",0,1 ; 77, sprite dimensions
+INCBIN "pic/rgmon/snorlax.pic",0,1 ; 77, sprite dimensions
 ENDC
 dw SnorlaxPicFront
 dw SnorlaxPicBack
