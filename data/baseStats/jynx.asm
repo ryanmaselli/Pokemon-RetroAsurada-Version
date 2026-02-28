@@ -12,7 +12,7 @@ db 137 ; base exp yield
 IF GEN_2_SPRITES
 INCBIN "pic/gsmon/jynx.pic",0,1
 ELSE
-INCBIN "pic/bmon/jynx.pic",0,1
+INCBIN "pic/rgmon/jynx.pic",0,1
 ENDC
 dw JynxPicFront
 dw JynxPicBack
