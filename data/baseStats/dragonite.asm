@@ -12,7 +12,7 @@ db 218 ; base exp yield
 IF GEN_2_SPRITES
 INCBIN "pic/gsmon/dragonite.pic",0,1
 ELSE
-INCBIN "pic/bmon/dragonite.pic",0,1
+INCBIN "pic/rgmon/dragonite.pic",0,1
 ENDC
 dw DragonitePicFront
 dw DragonitePicBack
