@@ -12,7 +12,7 @@ db 209 ; base exp yield
 IF GEN_2_SPRITES
 INCBIN "pic/gsmon/charizard.pic",0,1
 ELSE
-INCBIN "pic/bmon/charizard.pic",0,1
+INCBIN "pic/rgmon/charizard.pic",0,1
 ENDC
 dw CharizardPicFront
 dw CharizardPicBack
