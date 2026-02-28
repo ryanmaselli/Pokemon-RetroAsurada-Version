@@ -12,7 +12,7 @@ db 88 ; base exp yield
 IF GEN_2_SPRITES
 INCBIN "pic/gsmon/machop.pic",0,1
 ELSE
-INCBIN "pic/bmon/machop.pic",0,1
+INCBIN "pic/rgmon/machop.pic",0,1
 ENDC
 dw MachopPicFront
 dw MachopPicBack
