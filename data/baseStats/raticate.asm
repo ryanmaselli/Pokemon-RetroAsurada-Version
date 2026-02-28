@@ -12,7 +12,7 @@ db 116 ; base exp yield
 IF GEN_2_SPRITES
 INCBIN "pic/gsmon/raticate.pic",0,1 ; 66, sprite dimensions
 ELSE
-INCBIN "pic/bmon/raticate.pic",0,1 ; 66, sprite dimensions
+INCBIN "pic/rgmon/raticate.pic",0,1 ; 66, sprite dimensions
 ENDC
 dw RaticatePicFront
 dw RaticatePicBack
