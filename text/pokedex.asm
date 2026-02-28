@@ -1129,13 +1129,13 @@ _KinglerDexEntry::
 	dex
 
 _CloysterDexEntry::
-	text "When attacked, it"
-	next "launches its"
-	next "horns in quick"
+	text "Its shell is so"
+	next "hard that not even"
+	next "a napalm bomb can"
 
-	page "volleys. Its"
-	next "innards have"
-	next "never been seen"
+	page "shatter it. The"
+	next "shell opens only"
+	next "when it attacks"
 	dex
 
 _ElectrodeDexEntry::
