@@ -12,7 +12,7 @@ db 114 ; base exp yield
 IF GEN_2_SPRITES
 INCBIN "pic/gsmon/koffing.pic",0,1
 ELSE
-INCBIN "pic/bmon/koffing.pic",0,1
+INCBIN "pic/rgmon/koffing.pic",0,1
 ENDC
 dw KoffingPicFront
 dw KoffingPicBack
