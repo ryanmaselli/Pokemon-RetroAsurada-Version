@@ -12,7 +12,7 @@ db 62 ; base exp yield
 IF GEN_2_SPRITES
 INCBIN "pic/gsmon/ekans.pic",0,1
 ELSE
-INCBIN "pic/bmon/ekans.pic",0,1
+INCBIN "pic/rgmon/ekans.pic",0,1
 ENDC
 dw EkansPicFront
 dw EkansPicBack
