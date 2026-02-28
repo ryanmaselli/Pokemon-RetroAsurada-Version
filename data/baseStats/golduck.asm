@@ -12,7 +12,7 @@ db 174 ; base exp yield
 IF GEN_2_SPRITES
 INCBIN "pic/gsmon/golduck.pic",0,1
 ELSE
-INCBIN "pic/bmon/golduck.pic",0,1
+INCBIN "pic/rgmon/golduck.pic",0,1
 ENDC
 dw GolduckPicFront
 dw GolduckPicBack
