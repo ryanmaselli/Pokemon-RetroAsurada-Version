@@ -15,14 +15,14 @@ MoonMonsB1:
 	IF DEF(_BLUE)
 		db 8,ZUBAT
 		db 7,ZUBAT
-		db 7,GEODUDE
-		db 8,GEODUDE
+		db 7,ROGGENROLA
+		db 8,ROGGENROLA
 		db 9,ZUBAT
 		db 10,PARAS
 		db 10,ZUBAT
 		db 11,ZUBAT
 		db 9,CLEFFA
-		db 9,GEODUDE
+		db 9,ROGGENROLA
 	ENDC
 	db $00
 
