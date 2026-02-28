@@ -12,7 +12,7 @@ db 134 ; base exp yield
 IF GEN_2_SPRITES
 INCBIN "pic/gsmon/graveler.pic",0,1
 ELSE
-INCBIN "pic/bmon/graveler.pic",0,1
+INCBIN "pic/rgmon/graveler.pic",0,1
 ENDC
 dw GravelerPicFront
 dw GravelerPicBack
