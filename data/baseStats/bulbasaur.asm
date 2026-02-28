@@ -12,7 +12,7 @@ db 64 ; base exp yield
 IF GEN_2_SPRITES
 INCBIN "pic/gsmon/bulbasaur.pic",0,1
 ELSE
-INCBIN "pic/bmon/bulbasaur.pic",0,1
+INCBIN "pic/rgmon/bulbasaur.pic",0,1
 ENDC
 dw BulbasaurPicFront
 dw BulbasaurPicBack
