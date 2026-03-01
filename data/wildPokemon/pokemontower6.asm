@@ -20,10 +20,10 @@ TowerMons6:
 		db 23,LITWICK
 		db 19,LITWICK
 		db 18,LITWICK
-		db 24,LITWICK
+		db 24,GASTLY
 		db 20,CUBONE
 		db 22,CUBONE
-		db 25,GASTLY
+		db 25,LITWICK
 	ENDC
 
 	db $00
