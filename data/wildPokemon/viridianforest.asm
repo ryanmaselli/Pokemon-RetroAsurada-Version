@@ -9,7 +9,7 @@ ForestMons:
 		db 4,JOLTIK
 		db 5,PICHU
 		db 3,CATERPIE
-		db 3,PIKACHU
+		db 3,PICHU
 		db 5,SHROOMISH
 	ENDC
 
@@ -23,7 +23,7 @@ ForestMons:
 		db 5,SHROOMISH
 		db 3,WEEDLE
 		db 3,PICHU
-		db 5,PIKACHU
+		db 5,PICHU
 	ENDC
 
 	db $00
