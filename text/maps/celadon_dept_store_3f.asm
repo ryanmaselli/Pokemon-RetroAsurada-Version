@@ -110,7 +110,8 @@ _CeladonMart3Text14:: ; 9caa4 (27:4aa4)
 	done
 
 _CeladonMart3Text15:: ; 9cab6 (27:4ab6)
-	text "Red and Blue!"
-	line "Both are #MON!"
+	text "Red, Blue, and"
+	line "Green!"
+	line "All are #MON!"
 	done
 
