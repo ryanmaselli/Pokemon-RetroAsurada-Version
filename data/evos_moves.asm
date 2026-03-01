@@ -627,6 +627,7 @@ Mon092_EvosMoves: ; 3b31b (e:731b)
 Mon093_EvosMoves: ; 3b807 (e:7807)
 ;HAUNTER
 ;Evolutions
+	db EV_TRADE,1,GENGAR
 	db EV_LEVEL,40,GENGAR
 	db 0
 ;Learnset
@@ -1081,6 +1082,7 @@ Mon063_EvosMoves: ; 3b810 (e:7810)
 Mon064_EvosMoves: ; 3b3be (e:73be)
 ;KADABRA
 ;Evolutions
+	db EV_TRADE,1,ALAKAZAM
 	db EV_LEVEL,40,ALAKAZAM
 	db 0
 ;Learnset
@@ -1123,6 +1125,7 @@ Mon074_EvosMoves: ; 3b8fc (e:78fc)
 Mon075_EvosMoves: ; 3b3cf (e:73cf)
 ;GRAVELER
 ;Evolutions
+	db EV_TRADE,1,GOLEM
 	db EV_LEVEL,40,GOLEM
 	db 0
 ;Learnset
@@ -1202,6 +1205,7 @@ Mon066_EvosMoves: ; 3b690 (e:7690)
 Mon067_EvosMoves: ; 3b3ee (e:73ee)
 ;MACHOKE
 ;Evolutions
+	db EV_TRADE,1,MACHAMP
 	db EV_LEVEL,40,MACHAMP
 	db 0
 ;Learnset
@@ -2737,6 +2741,7 @@ Mon160_EvosMoves: ; 3b9e4 (e:79e4)
 Mon161_EvosMoves: ; 3b9e4 (e:79e4)
 ;BOLDORE
 ;Evolutions
+	db EV_TRADE,1,GIGALITH
 	db EV_LEVEL,40,GIGALITH
 	db 0
 ;Learnset
