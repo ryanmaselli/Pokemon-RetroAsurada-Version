@@ -6,7 +6,7 @@ Route5Mons:
 		db 13,PIDGEY
 		db 15,PIDGEY
 		db 10,PURRLOIN
-		db 12,PURRLOIN
+		db 12,MANKEY
 		db 15,ODDISH
 		db 16,ODDISH
 		db 16,PIDGEY
@@ -19,7 +19,7 @@ Route5Mons:
 		db 13,PIDGEY
 		db 15,PIDGEY
 		db 10,MEOWTH
-		db 12,MEOWTH
+		db 12,MANKEY
 		db 15,BELLSPROUT
 		db 16,BELLSPROUT
 		db 16,PIDGEY
