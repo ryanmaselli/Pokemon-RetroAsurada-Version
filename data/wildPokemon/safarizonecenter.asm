@@ -1,7 +1,7 @@
 ZoneMonsCenter:
 	db $1E
 	IF DEF(_RED)
-		db 22,NIDORAN_M
+		db 22,NIDORINA
 		db 25,RHYHORN
 		db 22,VENONAT
 		db 24,EXEGGCUTE
@@ -14,7 +14,7 @@ ZoneMonsCenter:
 	ENDC
 
 	IF DEF(_BLUE)
-		db 22,NIDORAN_F
+		db 22,NIDORINO
 		db 25,RHYHORN
 		db 22,VENONAT
 		db 24,EXEGGCUTE
