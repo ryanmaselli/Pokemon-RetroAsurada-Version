@@ -1,26 +1,26 @@
 Route16Mons:
 	db $19
 	IF DEF(_RED)
-		db 20,SPEAROW
+		db 20,FEAROW
 		db 22,NUMEL
 		db 18,RATTATA
 		db 20,DODUO
-		db 20,RATTATA
+		db 20,RATICATE
 		db 18,DODUO
 		db 22,MIENFOO
-		db 22,RATTATA
+		db 22,EEVEE
 		db 23,RATICATE
-		db 25,RATICATE
+		db 25,NUMEL
 	ENDC
 	IF DEF(_BLUE)
-		db 20,SPEAROW
-		db 22,SPEAROW
+		db 20,FEAROW
+		db 22,NUMEL
 		db 18,RATTATA
 		db 20,DODUO
-		db 20,RATTATA
+		db 20,RATICATE
 		db 18,DODUO
 		db 22,MIENFOO
-		db 22,RATTATA
+		db 22,EEVEE
 		db 23,RATICATE
 		db 25,NUMEL
 	ENDC
