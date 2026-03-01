@@ -10,7 +10,7 @@ TunnelMonsB2:
 		db 18,ZUBAT
 		db 17,MACHOP
 		db 17,ONIX
-		db 13,ONIX
+		db 13,DRILBUR
 		db 18,GEODUDE
 	ENDC
 	IF DEF(_BLUE)
@@ -22,7 +22,7 @@ TunnelMonsB2:
 		db 18,ZUBAT
 		db 17,MACHOP
 		db 17,ONIX
-		db 13,ONIX
+		db 13,DRILBUR
 		db 18,ROGGENROLA
 	ENDC
 
