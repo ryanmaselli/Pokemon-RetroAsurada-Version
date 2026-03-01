@@ -7,7 +7,7 @@ Route8Mons:
 		db 17,EKANS
 		db 16,GROWLITHE
 		db 16,FLABEBE
-		db 20,MANKEY
+		db 20,PANCHAM
 		db 19,EKANS
 		db 17,VULPIX
 		db 20,FLOETTE
@@ -20,7 +20,7 @@ Route8Mons:
 		db 17,SANDSHREW
 		db 16,VULPIX
 		db 16,FLABEBE
-		db 20,PANCHAM
+		db 20,MANKEY
 		db 19,SANDSHREW
 		db 17,GROWLITHE
 		db 20,FLOETTE
