@@ -10,7 +10,7 @@ Route6Mons:
 		db 15,ODDISH
 		db 16,ODDISH
 		db 16,PIDGEY
-		db 14,PURRLOIN
+		db 14,SQUIRTLE
 		db 16,PURRLOIN
 		db $00
 	ENDC
@@ -24,7 +24,7 @@ Route6Mons:
 		db 15,BELLSPROUT
 		db 16,BELLSPROUT
 		db 16,PIDGEY
-		db 14,MEOWTH
+		db 14,SQUIRTLE
 		db 16,MEOWTH
 		db $00
 	ENDC
