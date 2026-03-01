@@ -10,7 +10,7 @@ Route25Mons:
 		db 12,ABRA
 		db 14,ODDISH
 		db 10,ABRA
-		db 10,VENONAT
+		db 10,CHARMANDER
 		db 14,VENONAT
 	ENDC
 
@@ -23,7 +23,7 @@ Route25Mons:
 		db 12,ABRA
 		db 14,BELLSPROUT
 		db 10,ABRA
-		db 10,VENONAT
+		db 10,CHARMANDER
 		db 14,VENONAT
 	ENDC
 
