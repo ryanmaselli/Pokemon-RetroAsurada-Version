@@ -8,7 +8,7 @@ CaveMons:
 	db 15,DIGLETT
 	db 21,DRILBUR
 	db 22,DRILBUR
-	db 29,DUGTRIO
+	db 25,MUNCHLAX
 	db 31,DUGTRIO
 	db $00
 
