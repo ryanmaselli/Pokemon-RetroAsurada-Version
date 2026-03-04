@@ -1,13 +1,35 @@
 _PokemonTower2Text_6062d:: ; 9957b (26:557b)
-	text $53, ": Hey,"
-	line $52, "! What"
-	cont "brings you here?"
-	cont "Your #MON"
-	cont "don't look dead!"
+	text $53, ": ..."
+	
+	para $52, ". How do"
+	line "you dare showing"
+	cont "your face, HERE"
+	cont "of all places?"
+	cont "You really have"
+	cont "no shame."
 
-	para "I can at least"
-	line "make them faint!"
-	cont "Let's go, pal!"
+	para "First you try to"
+	line "steal my Gramps"
+	cont "from me, then"
+	cont "you... steal..."
+	cont "my #MON..."
+
+	para "Don't worry."
+	line "I won't let"
+	cont "emotions hold me"
+	cont "back any more."
+
+	para "With my previous"
+	line "#MON I wasn't"
+	cont "able to defeat"
+	cont "you for good. So"
+	cont "get ready to face"
+	cont "my updated team."
+
+	para "Your #MON may"
+	line "not be dead, but"
+	cont "I will gladly"
+	cont "fix that!"
 	done
 
 _PokemonTower2Text_60632:: ; 995e5 (26:55e5)
